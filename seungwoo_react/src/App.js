@@ -1,6 +1,11 @@
 
-    function App() {
-          const name='리액트';
+    function App()
+    
+    
+    {
+    
+    
+      const name='리액트';
           return(
           <div>
             {
@@ -14,5 +19,8 @@
             }
             </div>
           );
+
+
+
         }
            export default App;
