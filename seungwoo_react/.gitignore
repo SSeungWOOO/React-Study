@@ -1,5 +1,5 @@
-# Created by https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,yarn,react
-# Edit at https://www.toptal.com/developers/gitignore?templates=windows,visualstudiocode,yarn,react
+# Created by https://www.toptal.com/developers/gitignore/api/yarn,windows,visualstudiocode,react
+# Edit at https://www.toptal.com/developers/gitignore?templates=yarn,windows,visualstudiocode,react
 
 ### react ###
 .DS_*
@@ -79,4 +79,4 @@ $RECYCLE.BIN/
 # and uncomment the following lines
 # .pnp.*
 
-# End of https://www.toptal.com/developers/gitignore/api/windows,visualstudiocode,yarn,react
+# End of https://www.toptal.com/developers/gitignore/api/ya
